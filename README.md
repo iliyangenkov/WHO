@@ -32,7 +32,7 @@ The key deliverables include:
    - Visualising key patterns and trends
    - Uncover the key factors that affect life expectancy
  		
-3. **Feature Selection and Engineering (FE)**  
+4. **Feature Selection and Engineering (FE)**  
    Considered the ethical concerns of using certain features, and made careful judgements on what to exclude from our ethical model.
 
    We then transformed raw data into meaningful features to improve model performance. This includes:  
@@ -41,12 +41,12 @@ The key deliverables include:
    
    The FE process had to be adapted to work for the advanced and minimalist model, given the different features selected.
 
-4. **Model Building & Evaluation**  
+5. **Model Building & Evaluation**  
    Using linear regression to predict life expectancy and evaluating model performance with metrics such as Root Mean Square Error (RMSE) and Mean Absolute Percentage Error (MAPE).
  
    This was an iterative process that involved exploring a wide variety of model specifications, and selecting the best performing advanced and ethical model.
 
-5. **Function Building**
+6. **Function Building**
    Using the models we have selected, we create an interactive function that asks the user which model they want to use and then receives inputs to predict life expectancy.
 
 ---
