@@ -27,7 +27,7 @@ The key deliverables include:
    - Inconsistent data formats
    - Inconsistent scaling
 
-2. **Exploratory Data Analysis (EDA)**
+2. **Exploratory Data Analysis (EDA)**\
    Gain insights from the dataset through:
    - Visualising key patterns and trends
    - Uncover the key factors that affect life expectancy
@@ -47,7 +47,7 @@ The key deliverables include:
    This was an iterative process that involved exploring a wide variety of model specifications, and selecting the best performing advanced and ethical model.
 
 
-5. **Function Building**
+5. **Function Building**\
    Using the models we have selected, we create an interactive function that asks the user which model they want to use and then receives inputs to predict life expectancy.
 
 ---
